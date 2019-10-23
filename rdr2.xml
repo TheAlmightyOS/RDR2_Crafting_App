@@ -456,6 +456,85 @@
 			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
 			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
 		</ANIMAL>
+				<ANIMAL NAME="Western Chipmunk" A_ID="27">
+			<SPECIES>Chipmunk</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in forested and brush heavy areas of New Hanover, Lemoyne, and West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/western-chipmunk</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Chipmunk</WIKIPAGE>
+			<DROP>Stringy Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+				<ANIMAL NAME="Californian Condor" A_ID="28">
+			<SPECIES>Condor</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>1</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in New Austin.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/californian-condor</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Condor</WIKIPAGE>
+			<DROP>Condor Feather</DROP>
+			<DROP>Flight Feather</DROP>
+			<DROP>Gamey Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+						<ANIMAL NAME="Double-Creasted Cormorant" A_ID="29">
+			<SPECIES>Cormorant</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>1</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found near water in Lemoyne, New Hanover, and West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/cormorant</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Cormorant</WIKIPAGE>
+			<DROP>Cormorant Feather</DROP>
+			<DROP>Flight Feather</DROP>
+			<DROP>Gamey Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+								<ANIMAL NAME="Neotropic Cormorant" A_ID="31">
+			<SPECIES>Cormorant</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>1</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found near water including coastlines in Lemoyne, New Hanover, and West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/neotropic-cormorant</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Cormorant</WIKIPAGE>
+			<DROP>Cormorant Feather</DROP>
+			<DROP>Flight Feather</DROP>
+			<DROP>Gamey Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+						<ANIMAL NAME="Cougar" A_ID="32">
+			<SPECIES>Cougar</SPECIES>
+			<ALTNAME>Mountain Lion</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>3</SIZE_CD>
+			<LOCATION_DESC>Rarely found in the remote and forested areas of New Hanover, New Austin, and West Elizabeth. Usually found at night</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/cougar-mountain-lion</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Cougar_(RDR_2)</WIKIPAGE>
+			<DROP>Cougar Fur</DROP>
+			<DROP>Cougar Fang</DROP>
+			<DROP>Big Game Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
 	</ANIMALS>
 	<PLANTS/>
 	<SIZE_CD>
