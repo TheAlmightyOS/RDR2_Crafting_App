@@ -1,306 +1,514 @@
 <!--I did not bother marking the difference in qualities as only 'Perfect' can be used to craft-->
 <!--Also excluded carcass' as they are not used to craft, either-->
 <RDR2>
-  <ANIMALS>
-    <ANIMAL NAME="Micah" A_ID="0">
-      <SPECIES>Psychopath</SPECIES>
-      <ALTNAME>Asshole</ALTNAME>
-      <CLASS>Outlaw</CLASS>
-      <SIZE_CD>2</SIZE_CD>
-      <LOCATION_DESC>Commonly found in camp antagonizing the gang</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/rat</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Snake_(RDR_2)</WIKIPAGE>
-      <DROP>Micah's Pistol</DROP>
-      <DROP>Muneh</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>FALSE</ZOOLOGIST>
-      <SKIN_DEEP>FALSE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
-    </ANIMAL>    
-    <ANIMAL NAME="American Alligator (Small)" A_ID="1">
-      <SPECIES>Alligator</SPECIES>
-      <CLASS>Reptile</CLASS>
-      <SIZE_CD>3</SIZE_CD>
-      <LOCATION_DESC>Commonly found in the swamps of Lemoyne</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/american-alligator-small</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Alligator</WIKIPAGE>
-      <DROP>Alligator Skin</DROP>
-      <DROP>Alligator Teath</DROP>
-      <DROP>Big Game Meat</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="American Alligator" A_ID="2">
-      <SPECIES>Alligator</SPECIES>
-      <CLASS>Reptile</CLASS>
-      <SIZE_CD>4</SIZE_CD>
-      <LOCATION_DESC>Commonly found in the swamps of Lemoyne</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/alligator</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Alligator</WIKIPAGE>
-      <DROP>Alligator Skin</DROP>
-      <DROP>Alligator Teath</DROP>
-      <DROP>Big Game Meat</DROP>
-      <CARCASS>FALSE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Nine-Banded Armadillo" A_ID="3">
-      <SPECIES>Armadillo</SPECIES>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>1</SIZE_CD>
-      <LOCATION_DESC>Commonly found in New Austin around Armadillo</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/armadillo</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Armadillo_(RDR_2)</WIKIPAGE>
-      <DROP>Armadillo Skin</DROP>
-      <DROP>Stringy Meat</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="American Badger" A_ID="4">
-      <SPECIES>Badger</SPECIES>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>1</SIZE_CD>
-      <LOCATION_DESC>Commonly found in the southern and western parts of Lemoyne, usually around water</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/badger</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Badger</WIKIPAGE>
-      <DROP>Badger Pelt</DROP>
-      <DROP>Stringy Meat</DROP>
-      <DROP>Badger Claw</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Little Brown Bat" A_ID="5">
-      <SPECIES>Bat</SPECIES>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>0</SIZE_CD>
-      <LOCATION_DESC>Only found in caves, such as the one behind the waterfall in the Elysian Pool (Roanoke Ridge, New Hanover)</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/bat</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Bat_(RDR_2)</WIKIPAGE>
-      <DROP>Bat Wing</DROP>
-      <DROP>Stringy Meat</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>FALSE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="American Black Bear" A_ID="6">
-      <SPECIES>Black Bear</SPECIES>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>4</SIZE_CD>
-      <LOCATION_DESC>Uncommonly found in the northern parts of the map such as Roanoke Ridge (New Hanover), Big Valley (West Elizabeth), and Tall Trees (West Elizabeth)</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/bear</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Black_Bear</WIKIPAGE>
-      <DROP>Black Bear Fur</DROP>
-      <DROP>Black Bear Claw</DROP>
-      <DROP>Big Game Meat</DROP>
-      <DROP>Animal Fat</DROP>
-      <CARCASS>FALSE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Grizzly Bear" A_ID="7">
-      <SPECIES>Bear</SPECIES>
-      <ALTNAME>North American Brown Bear</ALTNAME>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>4</SIZE_CD>
-      <LOCATION_DESC>Uncommonly found in the eastern part of the Grizzlies (Ambarino)</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/grizzly-bear</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Grizzly_(RDR_2)</WIKIPAGE>
-      <DROP>Bear Fur</DROP>
-      <DROP>Bear Claw</DROP>
-      <DROP>Big Game Meat</DROP>
-      <DROP>Animal Fat</DROP>
-      <CARCASS>FALSE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="North American Beaver" A_ID="8">
-      <SPECIES>Beaver</SPECIES>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>2</SIZE_CD>
-      <LOCATION_DESC>Commonly found along the Kamassa River (New Hanover / Lemoyne)</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/beaver</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Beaver_(RDR_2)</WIKIPAGE>
-      <DROP>Beaver Fur</DROP>
-      <DROP>Scent Glands</DROP>
-      <DROP>Stringy Meat</DROP>
-      <DROP>Animal Fat</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="American Bison" A_ID="9">
-      <SPECIES>Bison</SPECIES>
-      <ALTNAME>Buffalo</ALTNAME>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>4</SIZE_CD>
-      <LOCATION_DESC>Uncommonly found on the plains of New Hanover and West Elizabeth.</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/american-bison-buffalo</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Bison</WIKIPAGE>
-      <DROP>Bison Fur</DROP>
-      <DROP>Bison Horns</DROP>
-      <DROP>Prime Beef</DROP>
-      <CARCASS>FALSE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Blue Jay" A_ID="10">
-      <SPECIES>Blue Jay</SPECIES>
-      <CLASS>Bird</CLASS>
-      <SIZE_CD>0</SIZE_CD>
-      <LOCATION_DESC>Uncommonly found in both the far east and west of New Hanover.</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/blue-jay</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Blue_Jay</WIKIPAGE>
-      <DROP>Blue Jay Feather</DROP>
-      <DROP>Flight Feather</DROP>
-      <DROP>Gamey Bird Meat</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Wild Boar" A_ID="11">
-      <SPECIES>Boar</SPECIES>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>3</SIZE_CD>
-      <LOCATION_DESC>Commonly found throughout Lemoyne as well as parts of New Hanover and West Elizabeth.</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/wild-boar</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Boar_(RDR_2)</WIKIPAGE>
-      <DROP>Boar Skin</DROP>
-      <DROP>Boar Tusks</DROP>
-      <DROP>Animal Fat</DROP>
-      <DROP>Tender Pork Loin</DROP>
-      <CARCASS>FALSE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Red-Footed Booby" A_ID="12">
-      <SPECIES>Booby</SPECIES>
-      <CLASS>Birds</CLASS>
-      <SIZE_CD>0</SIZE_CD>
-      <LOCATION_DESC>Can only be found in Guarma</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/red-footed-booby</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Booby</WIKIPAGE>
-      <DROP>Booby Feather</DROP>
-      <DROP>Flight Feather</DROP>
-      <DROP>Gamely Bird Meat</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>FALSE</ZOOLOGIST>
-      <SKIN_DEEP>FALSE</SKIN_DEEP>
-      <GUARMA_ONLY>TRUE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Whitetail Buck" A_ID="13">
-      <SPECIES>DEER</SPECIES>
-      <ALTNAME>Buck</ALTNAME>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>3</SIZE_CD>
-      <LOCATION_DESC>The buck can be found in virtually all locations except for Grizzlies West. Greater concentrations seem to be to the east, with only sparse populations within New Austin.</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/buck</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Buck_(RDR_2)</WIKIPAGE>
-      <DROP>Buck Fur</DROP>
-      <DROP>Buck Antlers</DROP>
-      <DROP>Mature Venison</DROP>
-      <CARCASS>TRUE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>TRUE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-    <ANIMAL NAME="Angus Bull" A_ID="14">
-      <SPECIES>Cattle</SPECIES>
-      <ALTNAME>Bull</ALTNAME>
-      <CLASS>Mammal</CLASS>
-      <SIZE_CD>4</SIZE_CD>
-      <LOCATION_DESC>Uncommonly found in New Austin, New Hanover, and West Elizabeth. You can usually find a bull around the oil fields or Hanging Dog Ranch in West Elizabeth.</LOCATION_DESC>
-      <WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/angus-bull</WIKIPAGE>
-      <WIKIPAGE>https://reddead.fandom.com/wiki/Bull_(RDR_2)</WIKIPAGE>
-      <DROP>Bull Hide</DROP>
-      <DROP>Bull Horns</DROP>
-      <DROP>Prime Beef</DROP>
-      <CARCASS>FALSE</CARCASS>
-      <ZOOLOGIST>TRUE</ZOOLOGIST>
-      <SKIN_DEEP>FALSE</SKIN_DEEP>
-      <GUARMA_ONLY>FALSE</GUARMA_ONLY>
-      <NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
-    </ANIMAL>
-  </ANIMALS>
-  <PLANTS />
-  <SIZE_CD>
-    <SIZE INDEX="0" NAME="Small">
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Small Game Arrow" OPTIMAL="TRUE" />
-    </SIZE>
-    <SIZE INDEX="1" NAME="Moderate">
-      <CLEAN_KILL WEAPON_CLASS="Varmint Rifle" AMMO=".22" OPTIMAL="TRUE" />
-    </SIZE>
-    <SIZE INDEX="2" NAME="Medium">
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Arrow" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Poison Arrow" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Normal" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Poison" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="Regular" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="Split Point" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="High Velocity" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="Express" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Regular" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Split Point" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="High Velocity" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Express" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Regular" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Split Point" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="High Velocity" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Express" OPTIMAL="FALSE" />
-    </SIZE>
-    <SIZE INDEX="3" NAME="Large">
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Arrow" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Poison Arrow" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Poison" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Regular" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Split Point" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="High Velocity" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Express" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Regular" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Split Point" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="High Velocity" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Express" OPTIMAL="FALSE" />
-    </SIZE>
-    <SIZE INDEX="4" NAME="Massive">
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Improved Arrow" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Poison Arrow" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Poison" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Regular" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Split Point" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="High Velocity" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Express" OPTIMAL="FALSE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Regular" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Split Point" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="High Velocity" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Express" OPTIMAL="TRUE" />
-      <CLEAN_KILL WEAPON_CLASS="Shotgun" AMMO="Slug" OPTIMAL="FALSE" />
-    </SIZE>
-  </SIZE_CD>
+	<ANIMALS>
+		<ANIMAL NAME="Micah" A_ID="0">
+			<SPECIES>Psychopath</SPECIES>
+			<ALTNAME>Asshole</ALTNAME>
+			<CLASS>Outlaw</CLASS>
+			<SIZE_CD>2</SIZE_CD>
+			<LOCATION_DESC>Commonly found in camp antagonizing the gang</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/rat</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Snake_(RDR_2)</WIKIPAGE>
+			<DROP>Micah's Pistol</DROP>
+			<DROP>Muneh</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>FALSE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="American Alligator (Small)" A_ID="1">
+			<SPECIES>Alligator</SPECIES>
+			<CLASS>Reptile</CLASS>
+			<SIZE_CD>3</SIZE_CD>
+			<LOCATION_DESC>Commonly found in the swamps of Lemoyne</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/american-alligator-small</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Alligator</WIKIPAGE>
+			<DROP>Alligator Skin</DROP>
+			<DROP>Alligator Teath</DROP>
+			<DROP>Big Game Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="American Alligator" A_ID="2">
+			<SPECIES>Alligator</SPECIES>
+			<CLASS>Reptile</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Commonly found in the swamps of Lemoyne</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/alligator</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Alligator</WIKIPAGE>
+			<DROP>Alligator Skin</DROP>
+			<DROP>Alligator Teath</DROP>
+			<DROP>Big Game Meat</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Nine-Banded Armadillo" A_ID="3">
+			<SPECIES>Armadillo</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>1</SIZE_CD>
+			<LOCATION_DESC>Commonly found in New Austin around Armadillo</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/armadillo</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Armadillo_(RDR_2)</WIKIPAGE>
+			<DROP>Armadillo Skin</DROP>
+			<DROP>Stringy Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="American Badger" A_ID="4">
+			<SPECIES>Badger</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>1</SIZE_CD>
+			<LOCATION_DESC>Commonly found in the southern and western parts of Lemoyne, usually around water</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/badger</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Badger</WIKIPAGE>
+			<DROP>Badger Pelt</DROP>
+			<DROP>Stringy Meat</DROP>
+			<DROP>Badger Claw</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Little Brown Bat" A_ID="5">
+			<SPECIES>Bat</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Only found in caves, such as the one behind the waterfall in the Elysian Pool (Roanoke Ridge, New Hanover)</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/bat</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Bat_(RDR_2)</WIKIPAGE>
+			<DROP>Bat Wing</DROP>
+			<DROP>Stringy Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="American Black Bear" A_ID="6">
+			<SPECIES>Black Bear</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in the northern parts of the map such as Roanoke Ridge (New Hanover), Big Valley (West Elizabeth), and Tall Trees (West Elizabeth)</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/bear</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Black_Bear</WIKIPAGE>
+			<DROP>Black Bear Fur</DROP>
+			<DROP>Black Bear Claw</DROP>
+			<DROP>Big Game Meat</DROP>
+			<DROP>Animal Fat</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Grizzly Bear" A_ID="7">
+			<SPECIES>Bear</SPECIES>
+			<ALTNAME>North American Brown Bear</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in the eastern part of the Grizzlies (Ambarino)</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/grizzly-bear</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Grizzly_(RDR_2)</WIKIPAGE>
+			<DROP>Bear Fur</DROP>
+			<DROP>Bear Claw</DROP>
+			<DROP>Big Game Meat</DROP>
+			<DROP>Animal Fat</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="North American Beaver" A_ID="8">
+			<SPECIES>Beaver</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>2</SIZE_CD>
+			<LOCATION_DESC>Commonly found along the Kamassa River (New Hanover / Lemoyne)</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/beaver</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Beaver_(RDR_2)</WIKIPAGE>
+			<DROP>Beaver Fur</DROP>
+			<DROP>Scent Glands</DROP>
+			<DROP>Stringy Meat</DROP>
+			<DROP>Animal Fat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="American Bison" A_ID="9">
+			<SPECIES>Bison</SPECIES>
+			<ALTNAME>Buffalo</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found on the plains of New Hanover and West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/american-bison-buffalo</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Bison</WIKIPAGE>
+			<DROP>Bison Fur</DROP>
+			<DROP>Bison Horns</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Blue Jay" A_ID="10">
+			<SPECIES>Blue Jay</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in both the far east and west of New Hanover.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/blue-jay</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Blue_Jay</WIKIPAGE>
+			<DROP>Blue Jay Feather</DROP>
+			<DROP>Flight Feather</DROP>
+			<DROP>Gamey Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Wild Boar" A_ID="11">
+			<SPECIES>Boar</SPECIES>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>3</SIZE_CD>
+			<LOCATION_DESC>Commonly found throughout Lemoyne as well as parts of New Hanover and West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/wild-boar</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Boar_(RDR_2)</WIKIPAGE>
+			<DROP>Boar Skin</DROP>
+			<DROP>Boar Tusks</DROP>
+			<DROP>Animal Fat</DROP>
+			<DROP>Tender Pork Loin</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Red-Footed Booby" A_ID="12">
+			<SPECIES>Booby</SPECIES>
+			<CLASS>Birds</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Can only be found in Guarma</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/red-footed-booby</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Booby</WIKIPAGE>
+			<DROP>Booby Feather</DROP>
+			<DROP>Flight Feather</DROP>
+			<DROP>Gamely Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>FALSE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>TRUE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Whitetail Buck" A_ID="13">
+			<SPECIES>DEER</SPECIES>
+			<ALTNAME>Buck</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>3</SIZE_CD>
+			<LOCATION_DESC>The buck can be found in virtually all locations except for Grizzlies West. Greater concentrations seem to be to the east, with only sparse populations within New Austin.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/buck</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Buck_(RDR_2)</WIKIPAGE>
+			<DROP>Buck Fur</DROP>
+			<DROP>Buck Antlers</DROP>
+			<DROP>Mature Venison</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Angus Bull" A_ID="14">
+			<SPECIES>Cattle</SPECIES>
+			<ALTNAME>Bull</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in New Austin, New Hanover, and West Elizabeth. You can usually find a bull around the oil fields or Hanging Dog Ranch in West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/angus-bull</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Bull_(RDR_2)</WIKIPAGE>
+			<DROP>Bull Hide</DROP>
+			<DROP>Bull Horns</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Devon Bull" A_ID="15">
+			<SPECIES>Cattle</SPECIES>
+			<ALTNAME>Bull</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in New Austin, New Hanover, and West Elizabeth. You can usually find a bull around the oil fields or Hanging Dog Ranch in West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/devon-bull</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Bull_(RDR_2)</WIKIPAGE>
+			<DROP>Bull Hide</DROP>
+			<DROP>Bull Horns</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Hereford Bull" A_ID="16">
+			<SPECIES>Cattle</SPECIES>
+			<ALTNAME>Bull</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found at ranches across the states, and North Saint Denis (Bayou Nwa, Lemoyne)</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/hereford-bull</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Bull_(RDR_2)</WIKIPAGE>
+			<DROP>Bull Hide</DROP>
+			<DROP>Bull Horns</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Northern Cardinal" A_ID="17">
+			<SPECIES>Cardinal</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Uncommonly found in the wooded areas of New Hanover and West Elizabeth.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/cardinal</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Cardinal</WIKIPAGE>
+			<DROP>Bull Hide</DROP>
+			<DROP>Bull Horns</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Florida Cracker Cow" A_ID="18">
+			<SPECIES>Cattle</SPECIES>
+			<ALTNAME>Cow</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Commonly found on ranches and at homesteads across all five states.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/cow-cattle</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Cow_(RDR_2)</WIKIPAGE>
+			<DROP>Cow Hide</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>FALSE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Angus Ox" A_ID="19">
+			<SPECIES>Cattle</SPECIES>
+			<ALTNAME>Oxen</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Commonly found on ranches and farms in West Elizabeth, New Hanover, and Lemoyne.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/angus-ox</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Oxen</WIKIPAGE>
+			<DROP>Oxen Hide</DROP>
+			<DROP>Oxen Horn</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Devon Ox" A_ID="20">
+			<SPECIES>Cattle</SPECIES>
+			<ALTNAME>Oxen</ALTNAME>
+			<CLASS>Mammal</CLASS>
+			<SIZE_CD>4</SIZE_CD>
+			<LOCATION_DESC>Commonly found on ranches and farms in West Elizabeth, New Hanover, and Lemoyne.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/devon-ox</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Oxen</WIKIPAGE>
+			<DROP>Oxen Hide</DROP>
+			<DROP>Oxen Horn</DROP>
+			<DROP>Prime Beef</DROP>
+			<CARCASS>FALSE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Dominique Chicken" A_ID="21">
+			<SPECIES>Chicken</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Commonly found on some of the ranches throughout the world.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/chicken</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Chicken_(RDR_2)</WIKIPAGE>
+			<DROP>Chicken Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Java Chicken" A_ID="22">
+			<SPECIES>Chicken</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Commonly found on some of the ranches or in towns throughout the world.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/java-chicken</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Chicken_(RDR_2)</WIKIPAGE>
+			<DROP>Chicken Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Leghorn Chicken" A_ID="23">
+			<SPECIES>Chicken</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Commonly found on some of the ranches in all states</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/leghorn-chicken</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Chicken_(RDR_2)</WIKIPAGE>
+			<DROP>Chicken Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Greater Prairie Chicken" A_ID="24">
+			<SPECIES>Chicken</SPECIES>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Found throughout the Great Plains of New Hanover.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/greater-prairie-chicken</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Chicken_(RDR_2)</WIKIPAGE>
+			<DROP>Chicken Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Dominique Rooster" A_ID="25">
+			<SPECIES>Chicken</SPECIES>
+			<ALTNAME>Rooster</ALTNAME>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Commonly found on ranches across all states.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/dominique-rooster</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Rooster</WIKIPAGE>
+			<DROP>Rooster Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Java Rooster" A_ID="26">
+			<SPECIES>Chicken</SPECIES>
+			<ALTNAME>Rooster</ALTNAME>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Commonly found on ranches across all states.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/java-rooster</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Rooster</WIKIPAGE>
+			<DROP>Rooster Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+		<ANIMAL NAME="Leghorn Rooster" A_ID="26">
+			<SPECIES>Chicken</SPECIES>
+			<ALTNAME>Rooster</ALTNAME>
+			<CLASS>Bird</CLASS>
+			<SIZE_CD>0</SIZE_CD>
+			<LOCATION_DESC>Commonly found on ranches across all states.</LOCATION_DESC>
+			<WIKIPAGE>https://www.gtabase.com/red-dead-redemption-2/animals/leghorn-rooster</WIKIPAGE>
+			<WIKIPAGE>https://reddead.fandom.com/wiki/Rooster</WIKIPAGE>
+			<DROP>Rooster Feather</DROP>
+			<DROP>Plump Bird Meat</DROP>
+			<CARCASS>TRUE</CARCASS>
+			<ZOOLOGIST>TRUE</ZOOLOGIST>
+			<SKIN_DEEP>TRUE</SKIN_DEEP>
+			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
+			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
+		</ANIMAL>
+	</ANIMALS>
+	<PLANTS/>
+	<SIZE_CD>
+		<SIZE INDEX="0" NAME="Small">
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Small Game Arrow" OPTIMAL="TRUE"/>
+		</SIZE>
+		<SIZE INDEX="1" NAME="Moderate">
+			<CLEAN_KILL WEAPON_CLASS="Varmint Rifle" AMMO=".22" OPTIMAL="TRUE"/>
+		</SIZE>
+		<SIZE INDEX="2" NAME="Medium">
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Arrow" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Poison Arrow" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Normal" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Poison" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="Regular" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="Split Point" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="High Velocity" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Repeater" AMMO="Express" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Regular" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Split Point" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="High Velocity" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Express" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Regular" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Split Point" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="High Velocity" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Express" OPTIMAL="FALSE"/>
+		</SIZE>
+		<SIZE INDEX="3" NAME="Large">
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Arrow" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Poison Arrow" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Poison" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Regular" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Split Point" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="High Velocity" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Express" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Regular" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Split Point" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="High Velocity" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Express" OPTIMAL="FALSE"/>
+		</SIZE>
+		<SIZE INDEX="4" NAME="Massive">
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Improved Arrow" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Bow" AMMO="Poison Arrow" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Throwing Knife" AMMO="Poison" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Regular" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Split Point" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="High Velocity" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Rifle" AMMO="Express" OPTIMAL="FALSE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Regular" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Split Point" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="High Velocity" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Sniper" AMMO="Express" OPTIMAL="TRUE"/>
+			<CLEAN_KILL WEAPON_CLASS="Shotgun" AMMO="Slug" OPTIMAL="FALSE"/>
+		</SIZE>
+	</SIZE_CD>
 </RDR2>
