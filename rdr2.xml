@@ -456,7 +456,7 @@
 			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
 			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
 		</ANIMAL>
-				<ANIMAL NAME="Western Chipmunk" A_ID="27">
+		<ANIMAL NAME="Western Chipmunk" A_ID="27">
 			<SPECIES>Chipmunk</SPECIES>
 			<CLASS>Mammal</CLASS>
 			<SIZE_CD>0</SIZE_CD>
@@ -470,7 +470,7 @@
 			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
 			<NEW_AUSTIN_ONLY>FALSE</NEW_AUSTIN_ONLY>
 		</ANIMAL>
-				<ANIMAL NAME="Californian Condor" A_ID="28">
+		<ANIMAL NAME="Californian Condor" A_ID="28">
 			<SPECIES>Condor</SPECIES>
 			<CLASS>Bird</CLASS>
 			<SIZE_CD>1</SIZE_CD>
@@ -486,7 +486,7 @@
 			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
 			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
 		</ANIMAL>
-						<ANIMAL NAME="Double-Creasted Cormorant" A_ID="29">
+		<ANIMAL NAME="Double-Creasted Cormorant" A_ID="29">
 			<SPECIES>Cormorant</SPECIES>
 			<CLASS>Bird</CLASS>
 			<SIZE_CD>1</SIZE_CD>
@@ -502,7 +502,7 @@
 			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
 			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
 		</ANIMAL>
-								<ANIMAL NAME="Neotropic Cormorant" A_ID="31">
+		<ANIMAL NAME="Neotropic Cormorant" A_ID="31">
 			<SPECIES>Cormorant</SPECIES>
 			<CLASS>Bird</CLASS>
 			<SIZE_CD>1</SIZE_CD>
@@ -518,7 +518,7 @@
 			<GUARMA_ONLY>FALSE</GUARMA_ONLY>
 			<NEW_AUSTIN_ONLY>TRUE</NEW_AUSTIN_ONLY>
 		</ANIMAL>
-						<ANIMAL NAME="Cougar" A_ID="32">
+		<ANIMAL NAME="Cougar" A_ID="32">
 			<SPECIES>Cougar</SPECIES>
 			<ALTNAME>Mountain Lion</ALTNAME>
 			<CLASS>Mammal</CLASS>
